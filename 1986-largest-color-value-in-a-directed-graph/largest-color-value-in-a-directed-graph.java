@@ -16,7 +16,7 @@ class Solution {
         }
         
         Queue<Integer> queue = new LinkedList<>();
-        int[][] dp = new int[n][26]; // Track frequency of colors at each node
+        int[][] dp = new int[n][26]; // Track color frequency at each node
         int processedNodes = 0;
         int maxColorValue = 0;
         
