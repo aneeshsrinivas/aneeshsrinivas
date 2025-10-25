@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
