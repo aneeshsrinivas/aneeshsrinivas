@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -76,8 +77,13 @@
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Design
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
