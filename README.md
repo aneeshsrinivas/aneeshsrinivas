@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -79,6 +80,7 @@
 ## Array
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -95,4 +97,12 @@
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Greedy
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
