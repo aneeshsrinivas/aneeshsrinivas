@@ -65,6 +65,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Design
 |  |
@@ -105,4 +107,12 @@
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
