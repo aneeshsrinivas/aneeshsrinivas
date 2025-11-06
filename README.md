@@ -67,6 +67,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
 | ------- |
@@ -119,4 +121,25 @@
 | ------- |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
+## Depth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
