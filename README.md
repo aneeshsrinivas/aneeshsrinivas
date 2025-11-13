@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Enumeration
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
 | ------- |
