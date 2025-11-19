@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
@@ -64,6 +65,7 @@
 | ------- |
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -88,6 +90,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -167,4 +170,8 @@
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
