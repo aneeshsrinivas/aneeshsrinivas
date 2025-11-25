@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [1064-smallest-integer-divisible-by-k](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -64,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1064-smallest-integer-divisible-by-k](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1064-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
