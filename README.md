@@ -145,6 +145,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -183,4 +184,8 @@
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Tree
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3058-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
