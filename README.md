@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [1064-smallest-integer-divisible-by-k](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1694-make-sum-divisible-by-p](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -111,6 +113,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3616-make-array-elements-equal-to-zero) |
