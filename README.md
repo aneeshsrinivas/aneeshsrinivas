@@ -86,15 +86,15 @@ C++             -->      DSA practice & competitive programming
 *Where I solve problems, compete, and level up 🚀*
 
 <p align="left">
-  <a href="https://leetcode.com/aneeshsrinivas" target="_blank" title="LeetCode Profile">
+  <a href="https://leetcode.com/u/AneeshSrinivas_45/" target="_blank" title="LeetCode Profile">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="38" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://geeksforgeeks.org/user/aneeshsrinivas" target="_blank" title="GeeksForGeeks Profile">
+  <a href="https://www.geeksforgeeks.org/profile/aneeshsri45?from=explore&tab=activity" target="_blank" title="GeeksForGeeks Profile">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="38" alt="GeeksForGeeks" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://hackerrank.com/aneeshsrinivas" target="_blank" title="HackerRank Profile">
+  <a href="https://www.hackerrank.com/profile/aneeshsrinivas21" target="_blank" title="HackerRank Profile">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="38" alt="HackerRank" />
   </a>
 </p>
