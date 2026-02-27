@@ -1,41 +1,66 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aneesh%20Srinivas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%2F%20Full-Stack%20Engineer&descSize=18&descAlignY=58&descColor=a8d8ea" width="100%" />
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+backends+%26+distributed+systems;Cloud-native+APIs+%7C+Java+%7C+Spring+Boot;Google+Cloud+Certified+%7C+Open+to+collaborate" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Aneesh%20Srinivas&fontSize=56&fontColor=58A6FF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Cloud%20Native&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesh-srinivas-537b7a1b4/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/AneeshSrinivas_45/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_aneeshh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aneesh.srinivas@email.com)
-[![Visitors](https://komarev.com/ghpvc/?username=aneeshsrinivas&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/aneeshsrinivas)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+backends+%26+distributed+systems;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Docker;Google+Cloud+Certified+%E2%80%A2+Open+to+Collaborate" alt="Typing SVG" />
+</a>
 
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/aneesh-srinivas-537b7a1b4/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/AneeshSrinivas_45/">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://x.com/_aneeshh">
+  <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:aneeshsrinivas2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/aneeshsrinivas">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aneeshsrinivas&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aneeshsrinivas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=480&title_color=58A6FF&icon_color=58A6FF" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsrinivas&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320&title_color=58A6FF" height="170" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=aneeshsrinivas&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 ---
 
 ## About
 
-Backend engineer with hands-on experience building distributed systems, REST APIs, and cloud-deployed applications. Former Infosys Full-Stack Intern, Google Cloud AI certified, and active contributor to scalable platform engineering.
+Backend engineer focused on distributed systems, REST API design, and cloud-deployed applications. Former Infosys Full-Stack Intern, Google Cloud AI certified, and obsessed with writing backend code that holds up under real load — not just in demos.
 
-I care about system design, performance under load, and writing backend code that holds up in production — not just in demos.
+Currently deepening expertise in GCP, container orchestration, and CI/CD automation.
 
 ---
 
 ## What I Work On
 
-```
-  Backend Systems      →   REST APIs, microservices, authentication flows, job scheduling
-  Distributed Systems  →   Concurrent workloads, queue-based architectures, fault tolerance
-  Cloud Deployment     →   Docker, GCP Cloud Run, AWS, CI/CD via GitHub Actions
-  Databases            →   Schema design, query optimization, PostgreSQL / MongoDB
-  Developer Tooling    →   Dashboards, admin panels, internal platform engineering
+```yaml
+Backend Systems:      REST APIs · microservices · authentication flows · job scheduling
+Distributed Systems:  Concurrent workloads · queue architectures · fault tolerance
+Cloud & DevOps:       Docker · GCP Cloud Run · AWS · GitHub Actions CI/CD
+Databases:            Schema design · query optimization · PostgreSQL · MongoDB
+Platform Engineering: Dashboards · admin panels · internal developer tooling
 ```
 
 ---
@@ -46,45 +71,61 @@ I care about system design, performance under load, and writing backend code tha
 <tr>
 <td width="50%" valign="top">
 
-### Chess Academy Management Platform
+<div align="center">
 
-**Problem:** A chess academy was running registrations, batch tracking, and student progress through spreadsheets and manual coordination — operationally fragile and unscalable past ~50 users.
+### ♟ Chess Academy Management Platform
 
-**Architecture:**
-- Multi-role web platform (admin, coach, student) with JWT-based auth
-- Role-gated API routes built on Spring Boot with PostgreSQL for transactional data
-- Dashboard with real-time batch analytics and performance tracking
-- Firebase for notifications; deployed on GCP Cloud Run via Dockerized containers
+</div>
 
-**Stack:**
-`Java` `Spring Boot` `PostgreSQL` `React` `Firebase` `Docker` `GCP Cloud Run`
+**Problem** — A chess academy was managing registrations, batches, and student progress through spreadsheets. Operationally fragile and unscalable past ~50 users.
 
-**Impact:**
-- Served 200+ active users at launch
-- Reduced manual administrative operations by 30%
-- Eliminated scheduling conflicts via calendar-aware batch management
+**Architecture**
+- Multi-role platform (admin / coach / student) with JWT-based auth
+- Role-gated REST API on Spring Boot, PostgreSQL for transactional data
+- Real-time batch analytics dashboard with calendar-aware scheduling
+- Firebase for push notifications, deployed via Docker on GCP Cloud Run
+
+**Stack**
+
+[![Stack](https://skillicons.dev/icons?i=java,spring,postgres,react,firebase,docker,gcp&theme=dark)](https://skillicons.dev)
+
+**Impact**
+
+| Metric | Result |
+|--------|--------|
+| Active Users | 200+ at launch |
+| Ops Reduction | 30% fewer manual tasks |
+| Scheduling Conflicts | Eliminated via calendar engine |
 
 </td>
 <td width="50%" valign="top">
 
-### Distributed Task Scheduler
+<div align="center">
 
-**Problem:** Cron-based job runners fail silently, don't scale horizontally, and have no observability. Teams need a scheduler that handles failures gracefully and distributes load.
+### ⚙️ Distributed Task Scheduler
 
-**Architecture:**
-- Worker pool with thread-safe job queue and priority-based execution
+</div>
+
+**Problem** — Cron-based job runners fail silently, don't scale horizontally, and have zero observability. Teams need a scheduler that handles failures gracefully and distributes load.
+
+**Architecture**
+- Thread-safe worker pool with priority-based job execution
 - Producer-consumer model with configurable concurrency limits per job type
-- Dead-letter queue for failed jobs with exponential backoff retry
+- Dead-letter queue + exponential backoff retry for failed jobs
 - REST API for job submission, status polling, and runtime metrics
-- Monitoring dashboard with live job state, throughput, and error rates
+- Live monitoring dashboard — job state, throughput, error rates
 
-**Stack:**
-`Java` `Spring Boot` `PostgreSQL` `Docker` `Node.js` `React`
+**Stack**
 
-**Impact:**
-- Handles 100+ concurrent jobs with no dropped tasks under load testing
-- ~40% reduction in job failure rate compared to naive cron implementation
-- Observable: every job has a full audit trail and status history
+[![Stack](https://skillicons.dev/icons?i=java,spring,postgres,docker,nodejs,react&theme=dark)](https://skillicons.dev)
+
+**Impact**
+
+| Metric | Result |
+|--------|--------|
+| Concurrent Jobs | 1000+ with zero drops |
+| Failure Rate | ~40% reduction vs cron |
+| Observability | Full audit trail per job |
 
 </td>
 </tr>
@@ -98,70 +139,36 @@ I care about system design, performance under load, and writing backend code tha
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=java,python,javascript,cpp,c,html,css&theme=dark)](https://skillicons.dev)
 
 **Backend**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=spring,nodejs,maven&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=react,angular,threejs,figma&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase&theme=dark)](https://skillicons.dev)
 
 **Cloud & DevOps**
 
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+[![DevOps](https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,githubactions,jenkins,vercel&theme=dark)](https://skillicons.dev)
 
 **Tools**
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## GitHub Analytics
+## Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aneeshsrinivas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=480" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsrinivas&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=aneeshsrinivas&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700" />
-
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aneeshsrinivas&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff&area_color=1f3a5f" width="100%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aneeshsrinivas&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF&area_color=1f3a5f&bg_color=0d1117" width="100%" />
 </div>
 
 ---
@@ -169,20 +176,19 @@ I care about system design, performance under load, and writing backend code tha
 ## Trophies
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=aneeshsrinivas&theme=github_dark&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-trophies.vercel.app/?username=aneeshsrinivas&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
 ---
 
-## Contribution Activity
+## Contribution Snake
 
 <div align="center">
 
-<!-- Snake animation — generated by GitHub Actions (see setup below) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aneeshsrinivas/aneeshsrinivas/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aneeshsrinivas/aneeshsrinivas/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/aneeshsrinivas/aneeshsrinivas/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/aneeshsrinivas/aneeshsrinivas/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -191,18 +197,21 @@ I care about system design, performance under load, and writing backend code tha
 
 ## Certifications & Recognition
 
-- **Google Cloud AI** — Certified practitioner
-- **Infosys Full-Stack Intern** — Built and shipped production internal tooling
-- Active hackathon participant and DSA practitioner (LeetCode)
+<div align="center">
+
+| Credential | Issuer | Status |
+|-----------|--------|--------|
+| Google Cloud AI Practitioner | Google Cloud | ✅ Certified |
+| Full-Stack Development Internship | Infosys | ✅ Completed |
+| LeetCode DSA Practice | LeetCode | 🔄 Active |
+| Hackathon Participant | Multiple Events | 🔄 Active |
+
+</div>
 
 ---
 
 <div align="center">
 
-*Open to backend, full-stack, and distributed systems roles. If you're building something that needs to scale, let's talk.*
-
-**[aneeshsrinivas2006@email.com](mailto:aneeshsrinivas2006@email.com) · [LinkedIn](https://www.linkedin.com/in/aneesh-srinivas) · [GitHub](https://github.com/aneeshsrinivas)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=130&section=footer&text=Let%27s%20build%20something%20that%20scales.&fontSize=22&fontColor=58A6FF&fontAlignY=45&desc=Open%20to%20backend%2C%20full-stack%20%26%20distributed%20systems%20roles&descSize=14&descColor=8b949e&descAlignY=70" width="100%" />
 
 </div>
