@@ -1,194 +1,208 @@
-# 💫About Me :
-🔭 I’m currently working on enhancing my cloud development skills through hands-on projects involving Docker, Streamlit, and Cloud Run. I'm also refining my GitHub profile and personal branding to reflect my technical growth and creativity.
+<div align="center">
 
-👯 I’m looking to collaborate on cloud-native web applications, scalable backend systems, and tools that blend cognitive intelligence with clean UI/UX. I enjoy working with developers who value clarity, performance, and originality.
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aneesh%20Srinivas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%2F%20Full-Stack%20Engineer&descSize=18&descAlignY=58&descColor=a8d8ea" width="100%" />
 
-🤝 I’m looking for help with advanced cloud infrastructure concepts, deployment automation, and optimizing CI/CD workflows using GitHub Actions and container orchestration.
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+backends+%26+distributed+systems;Cloud-native+APIs+%7C+Java+%7C+Spring+Boot;Google+Cloud+Certified+%7C+Open+to+collaborate" alt="Typing SVG" />
+</a>
 
-🌱 I’m currently learning Google Cloud Platform services, serverless architecture, and best practices for building modular, maintainable cloud applications. I'm also exploring accessibility and gamification in web design.
+<br/>
 
-💬 Ask me about Java, Python, Docker, Firebase, GitHub Actions, and how to build developer profiles that stand out. I’m always happy to share strategies for balancing creativity with compliance in technical projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesh-srinivas-537b7a1b4/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/aneeshsrinivas)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_aneeshh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aneesh.srinivas@email.com)
+[![Visitors](https://komarev.com/ghpvc/?username=aneeshsrinivas&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/aneeshsrinivas)
 
-⚡ Fun fact: I’m obsessed with crafting showstopper features—those unexpected touches that make users pause and say, “That’s brilliant.” Whether it’s a guided tour, a skill matcher, or a dynamic accessibility panel, I love pushing the boundaries of what a web app can feel like.
-
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aneesh.srinivas_04/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aneesh-srinivas-537b7a1b4/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/_aneeshh) 
-
-# 💻Tech Stack
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=aneeshsrinivas&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aneeshsrinivas&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsrinivas&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=aneeshsrinivas&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aneeshsrinivas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1064-smallest-integer-divisible-by-k](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1064-smallest-integer-divisible-by-k) |
-| [1817-calculate-money-in-leetcode-bank](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1817-calculate-money-in-leetcode-bank) |
-| [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
-| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
-| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
-## String
-|  |
-| ------- |
-| [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
-| [2059-unique-length-3-palindromic-subsequences](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2059-unique-length-3-palindromic-subsequences) |
-| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
-| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
-## Simulation
-|  |
-| ------- |
-| [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
-| [2274-keep-multiplying-found-values-by-two](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2274-keep-multiplying-found-values-by-two) |
-| [3616-make-array-elements-equal-to-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3616-make-array-elements-equal-to-zero) |
-| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
-## Combinatorics
-|  |
-| ------- |
-| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
-## Number Theory
-|  |
-| ------- |
-| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
-## Hash Table
-|  |
-| ------- |
-| [1064-smallest-integer-divisible-by-k](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1064-smallest-integer-divisible-by-k) |
-| [1694-make-sum-divisible-by-p](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1694-make-sum-divisible-by-p) |
-| [2059-unique-length-3-palindromic-subsequences](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2059-unique-length-3-palindromic-subsequences) |
-| [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
-| [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
-| [2274-keep-multiplying-found-values-by-two](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2274-keep-multiplying-found-values-by-two) |
-| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
-| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
-| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
-| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
-| [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
-| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
-## Backtracking
-|  |
-| ------- |
-| [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
-## Counting
-|  |
-| ------- |
-| [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
-| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
-## Enumeration
-|  |
-| ------- |
-| [2174-next-greater-numerically-balanced-number](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2174-next-greater-numerically-balanced-number) |
-## Array
-|  |
-| ------- |
-| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
-| [1694-make-sum-divisible-by-p](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1694-make-sum-divisible-by-p) |
-| [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
-| [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
-| [2274-keep-multiplying-found-values-by-two](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2274-keep-multiplying-found-values-by-two) |
-| [2618-maximize-the-minimum-powered-city](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2618-maximize-the-minimum-powered-city) |
-| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
-| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
-| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
-| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
-| [3616-make-array-elements-equal-to-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3616-make-array-elements-equal-to-zero) |
-| [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
-| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
-## Design
-|  |
-| ------- |
-| [2169-simple-bank-system](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2169-simple-bank-system) |
-## Prefix Sum
-|  |
-| ------- |
-| [1694-make-sum-divisible-by-p](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1694-make-sum-divisible-by-p) |
-| [2059-unique-length-3-palindromic-subsequences](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2059-unique-length-3-palindromic-subsequences) |
-| [2618-maximize-the-minimum-powered-city](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2618-maximize-the-minimum-powered-city) |
-| [3616-make-array-elements-equal-to-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3616-make-array-elements-equal-to-zero) |
-| [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
-## Linked List
-|  |
-| ------- |
-| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
-| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
-## Greedy
-|  |
-| ------- |
-| [1700-minimum-time-to-make-rope-colorful](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1700-minimum-time-to-make-rope-colorful) |
-| [2618-maximize-the-minimum-powered-city](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2618-maximize-the-minimum-powered-city) |
-| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
-## Sliding Window
-|  |
-| ------- |
-| [2618-maximize-the-minimum-powered-city](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2618-maximize-the-minimum-powered-city) |
-| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
-| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
-| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
-| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
-## Depth-First Search
-|  |
-| ------- |
-| [3058-maximum-number-of-k-divisible-components](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3058-maximum-number-of-k-divisible-components) |
-| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
-## Breadth-First Search
-|  |
-| ------- |
-| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
-## Union Find
-|  |
-| ------- |
-| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
-## Graph
-|  |
-| ------- |
-| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
-## Ordered Set
-|  |
-| ------- |
-| [3863-power-grid-maintenance](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3863-power-grid-maintenance) |
-## Binary Search
-|  |
-| ------- |
-| [2618-maximize-the-minimum-powered-city](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2618-maximize-the-minimum-powered-city) |
-## Queue
-|  |
-| ------- |
-| [2618-maximize-the-minimum-powered-city](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2618-maximize-the-minimum-powered-city) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
-| [2059-unique-length-3-palindromic-subsequences](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2059-unique-length-3-palindromic-subsequences) |
-## Memoization
-|  |
-| ------- |
-| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
-## Sorting
-|  |
-| ------- |
-| [2274-keep-multiplying-found-values-by-two](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/2274-keep-multiplying-found-values-by-two) |
-## Tree
-|  |
-| ------- |
-| [3058-maximum-number-of-k-divisible-components](https://github.com/aneeshsrinivas/aneeshsrinivas/tree/master/3058-maximum-number-of-k-divisible-components) |
-<!---LeetCode Topics End-->
+## About
+
+Backend engineer with hands-on experience building distributed systems, REST APIs, and cloud-deployed applications. Former Infosys Full-Stack Intern, Google Cloud AI certified, and active contributor to scalable platform engineering.
+
+I care about system design, performance under load, and writing backend code that holds up in production — not just in demos.
+
+---
+
+## What I Work On
+
+```
+  Backend Systems      →   REST APIs, microservices, authentication flows, job scheduling
+  Distributed Systems  →   Concurrent workloads, queue-based architectures, fault tolerance
+  Cloud Deployment     →   Docker, GCP Cloud Run, AWS, CI/CD via GitHub Actions
+  Databases            →   Schema design, query optimization, PostgreSQL / MongoDB
+  Developer Tooling    →   Dashboards, admin panels, internal platform engineering
+```
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Chess Academy Management Platform
+
+**Problem:** A chess academy was running registrations, batch tracking, and student progress through spreadsheets and manual coordination — operationally fragile and unscalable past ~50 users.
+
+**Architecture:**
+- Multi-role web platform (admin, coach, student) with JWT-based auth
+- Role-gated API routes built on Spring Boot with PostgreSQL for transactional data
+- Dashboard with real-time batch analytics and performance tracking
+- Firebase for notifications; deployed on GCP Cloud Run via Dockerized containers
+
+**Stack:**
+`Java` `Spring Boot` `PostgreSQL` `React` `Firebase` `Docker` `GCP Cloud Run`
+
+**Impact:**
+- Served 200+ active users at launch
+- Reduced manual administrative operations by 30%
+- Eliminated scheduling conflicts via calendar-aware batch management
+
+</td>
+<td width="50%" valign="top">
+
+### Distributed Task Scheduler
+
+**Problem:** Cron-based job runners fail silently, don't scale horizontally, and have no observability. Teams need a scheduler that handles failures gracefully and distributes load.
+
+**Architecture:**
+- Worker pool with thread-safe job queue and priority-based execution
+- Producer-consumer model with configurable concurrency limits per job type
+- Dead-letter queue for failed jobs with exponential backoff retry
+- REST API for job submission, status polling, and runtime metrics
+- Monitoring dashboard with live job state, throughput, and error rates
+
+**Stack:**
+`Java` `Spring Boot` `PostgreSQL` `Docker` `Node.js` `React`
+
+**Impact:**
+- Handles 100+ concurrent jobs with no dropped tasks under load testing
+- ~40% reduction in job failure rate compared to naive cron implementation
+- Observable: every job has a full audit trail and status history
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Tools**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aneeshsrinivas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=480" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsrinivas&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=aneeshsrinivas&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aneeshsrinivas&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=ffffff&area_color=1f3a5f" width="100%" />
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=aneeshsrinivas&theme=github_dark&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<!-- Snake animation — generated by GitHub Actions (see setup below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aneeshsrinivas/aneeshsrinivas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aneeshsrinivas/aneeshsrinivas/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/aneeshsrinivas/aneeshsrinivas/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## Certifications & Recognition
+
+- **Google Cloud AI** — Certified practitioner
+- **Infosys Full-Stack Intern** — Built and shipped production internal tooling
+- Active hackathon participant and DSA practitioner (LeetCode)
+
+---
+
+<div align="center">
+
+*Open to backend, full-stack, and distributed systems roles. If you're building something that needs to scale, let's talk.*
+
+**[aneeshsrinivas2006@email.com](mailto:aneeshsrinivas2006@email.com) · [LinkedIn](https://www.linkedin.com/in/aneesh-srinivas) · [GitHub](https://github.com/aneeshsrinivas)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+
+</div>
