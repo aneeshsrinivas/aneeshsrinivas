@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/aneeshsrinivas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=820&lines=Full-Stack+MERN+Developer+in+the+Making;React+%7C+Node.js+%7C+Spring+Boot+%7C+Docker;Building+Real+Products%2C+Not+Just+Demos;Hackathon+Winner+%F0%9F%8F%86+%7C+Infosys+Intern;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=820&lines=Full-Stack+Java+Developer+in+the+Making;React+%7C+Node.js+%7C+Spring+Boot+%7C+Docker;Building+Real+Products%2C+Not+Just+Demos;Hackathon+Winner+%F0%9F%8F%86+%7C+Infosys+Intern;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
