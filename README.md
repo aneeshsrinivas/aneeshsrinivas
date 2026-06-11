@@ -1,248 +1,289 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:00c6ff,100:7b2ff7&text=Hey%20👋,%20I'm%20Aneesh%20Srinivas&textBg=false&animation=twinkling&fontSize=42&section=header&fontAlignY=40&fontColor=FFFFFF" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/aneeshsrinivas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=820&lines=Full-Stack+Java+Developer+in+the+Making;React+%7C+Node.js+%7C+Spring+Boot+%7C+Docker;Building+Real+Products%2C+Not+Just+Demos;Hackathon+Winner+%F0%9F%8F%86+%7C+Infosys+Intern;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:7c3aed&height=200&section=header&text=Aneesh%20Srinivas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Systems%20%7C%20Full%20Stack%20Engineering%20%7C%20AI%2FML%20Research&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aneeshsrinivas&label=Profile%20views&color=7b2ff7&style=flat&abbreviated=true" alt="aneeshsrinivas" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=Building+scalable+backend+systems+%F0%9F%9B%A0%EF%B8%8F;Full+Stack+%7C+Microservices+%7C+Cloud-Native+%E2%98%81%EF%B8%8F;AI+%2F+ML+Research+%26+Engineering+%F0%9F%A7%A0;Hackathon+Champion+%7C+IEEE+Author+%F0%9F%93%84)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://github.com/aneeshsrinivas">
-    <img src="https://github-profile-trophy.vercel.app/?username=aneeshsrinivas&theme=algolia&margin-w=15&row=1&no-bg=true" />
-  </a>
-</p>
+<br/>
+
+![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE-Manipal%20University%20Bengaluru-6d28d9?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Class of 2028](https://img.shields.io/badge/Class%20of-2028-4f46e5?style=for-the-badge&logoColor=white)
+![India](https://img.shields.io/badge/📍%20Bengaluru-India-7c3aed?style=for-the-badge)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-codolio.com%2Fprofile%2FAneeshSri-6d28d9?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://codolio.com/profile/AneeshSri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aneesh--Srinivas-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-srinivas)
+[![Email](https://img.shields.io/badge/Email-aneeshsrinivas2006%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneeshsrinivas2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aneeshsrinivas-5b21b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aneeshsrinivas)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aneeshsrinivas&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/aneeshsrinivas?style=for-the-badge&color=4f46e5&logo=github&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/aneeshsrinivas?style=for-the-badge&color=7c3aed&logo=github&label=STARS)
+
+</div>
 
 ---
 
-# 🚀 About Me & Current Focus
+## ◈ About
 
-I'm a second-year Computer Science student at **Manipal Institute of Technology, Manipal**, building toward full-stack web development with a focus on the MERN stack. I don't just complete assignments — I build things that solve real problems, and I push them to production.
-
-I'm currently interning as an **Angular Full Stack Developer at Infosys Springboard**, working with Angular, TypeScript, Node.js, and REST APIs in an enterprise environment using Agile practices. Outside of that, I'm deepening my MERN stack skills, sharpening my DSA fundamentals, and learning cloud deployment with AWS and Google Cloud.
-
-I learn best by building from scratch, breaking things, and figuring out why — every project teaches me something I couldn't have gotten from a tutorial.
-
-<br>
-
-<!-- LANGUAGES BREAKDOWN START -->
 ```
-[ LANGUAGES BREAKDOWN ]
-
-Java            -->      primary backend language (Spring Boot, REST APIs)
-TypeScript      -->      primary frontend language (Angular, React)
-JavaScript      -->      Node.js, Express, frontend scripting
-Python          -->      academic use, ML experiments
-SQL             -->      PostgreSQL, MySQL schema design & queries
-C++             -->      DSA practice & competitive programming
-
-[ STACK FOCUS: Full-Stack MERN + Spring Boot Backend ]
+Third-year CS undergrad at Manipal University Bengaluru (Class of 2028).
+Building full-stack apps, learning system design, and competing in hackathons.
+Currently figuring out backend architecture, one project at a time.
 ```
-<!-- LANGUAGES BREAKDOWN END -->
 
-<br>
+I'm a third-year CS undergrad who builds things end-to-end — backend APIs, full-stack web apps, and the occasional distributed system when a hackathon calls for it. I care about writing clean, maintainable code and understanding how systems actually work under load, not just making them run once.
 
----
+Outside coursework, I've shipped real projects used by real people, competed in national hackathons across healthtech, fintech, and cybersecurity verticals, and co-authored research on LLMs and network security.
 
-# 🔭 What I'm Currently Working On
+Still learning a lot. Building more than I'm reading about it.
 
-- Shipping production web apps at **Infosys Springboard** in an Angular + Node.js + REST API stack
-- Deepening **React + Node.js (MERN)** skills to build full-stack projects independently
-- Grinding **Data Structures & Algorithms** daily on LeetCode and GeeksforGeeks
-- Exploring **AWS** and **Google Cloud** for real deployment workflows beyond just Heroku
-- Understanding how distributed systems handle failure — queues, retries, and monitoring dashboards
+**Competed in 10+ hackathons** — consistently delivering production-ready prototypes under 24–48 hour constraints across cybersecurity, healthtech, fintech, and edtech verticals.
 
-<br>
+<br/>
 
----
+**Open To:**
 
-# 🌐 Connect With Me
-
-## Socials & Contact
-
-*Ping me, follow me, or just drop a hey!*
-
-<p align="left">
-  <a href="https://linkedin.com/in/aneeshsrinivas" target="_blank" title="Connect on LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="38" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:aneeshsrinivas2006@gmail.com" target="_blank" title="Send me an Email">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aneeshsrinivas" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub" />
-  </a>
-</p>
-
-## Coding Platforms I'm Active On
-
-*Where I solve problems, compete, and level up 🚀*
-
-<p align="left">
-  <a href="https://leetcode.com/u/AneeshSrinivas_45/" target="_blank" title="LeetCode Profile">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="38" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/aneeshsri45?from=explore&tab=activity" target="_blank" title="GeeksForGeeks Profile">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="38" alt="GeeksForGeeks" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/aneeshsrinivas21" target="_blank" title="HackerRank Profile">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="38" alt="HackerRank" />
-  </a>
-</p>
-
-<br>
+- 🔹 Backend / Full Stack Software Engineering Internships
+- 🔹 AI/ML Research Collaborations
+- 🔹 Open Source Contributions
+- 🔹 Hackathon Team-Ups (System Design + Backend)
 
 ---
 
-# 🛠️ Tech Stack
+## ◈ Tech Stack
 
-## Tier 1: Core Stack — What I Actively Build With
+<div align="center">
 
-### Languages & Frameworks
+### Languages
+[![Languages](https://skillicons.dev/icons?i=java,python,cpp,js,ts,sql&theme=dark)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" title="Java" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring Boot" title="Spring Boot" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" title="React" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" title="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js" title="Express.js" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular" width="40" alt="Angular" title="Angular" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" title="TypeScript" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" title="JavaScript" />
-</p>
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-### Databases I Actively Use
+### Backend & Databases
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,postgres,mysql,mongodb,redis,prisma&theme=dark)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" title="MongoDB" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" width="40" alt="PostgreSQL" title="PostgreSQL" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" title="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" width="40" alt="Redis" title="Redis" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase" title="Firebase" />
-</p>
+### Cloud, DevOps & Tooling
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,kafka,git,linux,postman,firebase&theme=dark)](https://skillicons.dev)
 
-### Core Dev Tools & Deployment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" title="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" title="Postman" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" title="Linux" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" title="VS Code" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=heroku" width="40" alt="Heroku" title="Heroku" />
-</p>
-
-### Cloud Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" title="AWS" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" width="40" alt="Google Cloud" title="Google Cloud" />
-</p>
+</div>
 
 ---
 
-## Tier 2: Learning / Academic / Experimental
+## ◈ Full Stack Expertise
 
-### Currently Exploring
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql" width="40" alt="GraphQL" title="GraphQL" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=rabbitmq" width="40" alt="RabbitMQ" title="RabbitMQ" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" title="Next.js" />
-</p>
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Backend Development | ████████░░ Proficient | REST APIs, microservices, Node.js, Spring Boot, Express.js |
+| Database Design | ███████░░░ Proficient | PostgreSQL, MySQL, MongoDB, Prisma ORM, schema design |
+| Frontend Development | █████░░░░░ Intermediate | React, component architecture, state management, REST integration |
+| Authentication & Security | ██████░░░░ Intermediate | Role-based access control, JWT, Firebase Auth, session management |
+| Cloud & Storage | █████░░░░░ Intermediate | AWS S3, signed URLs, file upload pipelines, GCP basics |
+| DevOps & Tooling | ████░░░░░░ Familiar | Docker, Git workflows, Linux, environment management |
+| Real-Time Systems | ████░░░░░░ Familiar | SSE, WebSockets, Firebase real-time DB, event-driven patterns |
+| Message Queues | ███░░░░░░░ Beginner | Kafka fundamentals, async job queues, event streaming concepts |
 
-### Frontend & UI Tech
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3" title="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap" title="Bootstrap" />
-</p>
-
-### Academic & Additional Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" title="Python" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="40" alt="C" title="C" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++" title="C++" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jupyter" width="40" alt="Jupyter" title="Jupyter" />
-</p>
-
-<br>
+</div>
 
 ---
 
-# 🏗️ Projects Showcase
+## ◈ Featured Projects
 
-### 🏆 Indian Chess Academy Operations Platform
-**[Hackathon Winner — Jan 2026]** &nbsp;·&nbsp; `Spring Boot` · `PostgreSQL` · `React` · `Docker` · `REST APIs` · `JWT`
+<details>
+<summary><b>⬡ AcaEdge — Academic Workflow Automation Platform</b></summary>
 
-Fragmented communication across 200+ students, coaches, and parents was making operations painful for the academy. I built a centralized management platform with role-based dashboards — parents could track class schedules and payments, coaches could manage student progress and assign puzzles, and admins had analytics on enrollment trends and revenue. REST APIs were secured with JWT authentication throughout. The result was a **30% reduction in administrative overhead**, and the platform took **first place** at the hackathon for technical implementation and real-world business impact.
+<br/>
+
+> Centralized platform solving CO–Skill Outcome mapping, document traceability, and faculty coordination at Manipal Institute of Technology. Replaced fragmented spreadsheet workflows with structured, audited pipelines.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Node.js · Express.js · PostgreSQL · Prisma ORM · Redis · AWS S3 · Microsoft Graph API · React |
+| **Scale** | 150+ teachers and coordinators across multiple sections and departments |
+| **Performance** | Redis caching layer for high-frequency read paths; async job queues for document pipelines |
+| **Security** | Role-based access control with multi-role hierarchy; audit trails on all document submissions |
+| **Impact** | 20–35% reduction in administrative overhead; eliminated manual follow-ups across departments |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/aneeshsrinivas) |
+
+Built as a full production system: Prisma-managed schema migrations, automated AWS S3 upload pipelines with signed URL generation, and Microsoft Graph API integration for role-based email triggers. Designed for multi-tenancy, section-wise access scoping, and extensibility across academic terms
+
+</details>
 
 ---
 
-### ⚙️ Distributed Task Scheduler
-**[Dec 2025]** &nbsp;·&nbsp; `Java` · `Spring Boot` · `RabbitMQ` · `PostgreSQL` · `Docker`
+## ◈ Experience
 
-A backend job scheduling system with priority queuing and automatic retry logic — the kind of system that needs to stay reliable even when individual jobs fail. Deployed with Docker containers and load balancing, it handles over **1,000 concurrent job requests**. Comes with a monitoring dashboard for real-time queue health and job metrics, and a full set of API documentation. Building this taught me a lot about how production systems stay resilient under pressure.
+### Full Stack Developer Intern — Vina Edutech Pvt. Ltd. (Indian Chess Academy)
+`April 2026 – June 2026` · Remote
 
-<br>
+> Built an end-to-end role-based academy management platform replacing fragmented spreadsheet and WhatsApp workflows with a centralized operations dashboard.
 
-# 📊 GitHub Stats
+- Architected role-based access control across admin, coach, student, and parent roles with scoped dashboards and permission enforcement
+- Built REST APIs for authentication, payment processing, scheduling, and student progress tracking
+- Integrated Firebase for real-time communication and notification delivery
+- Estimated 20–30% reduction in manual administrative effort post-deployment
+- Delivered a 1st Place Hackathon win for the platform
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aneeshsrinivas&show_icons=true&locale=en&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" width="350" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aneeshsrinivas&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&hide=html,css,scss" width="300" height="180em" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshsrinivas&theme=algolia&hide_border=true" width="350" height="180em" alt="GitHub Streak" />
-</p>
+`React` `Node.js` `Express.js` `Firebase` `REST APIs` `Role-Based Access Control`
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshsrinivas&theme=algolia" width="900" alt="Activity Graph" />
-</p>
+---
 
-<br>
+### Data & Content Engineer — Fertig Learning Platform
+`October 2025 – Present` · Remote
 
-<p align="center">
-  <a href="https://linkedin.com/in/aneeshsrinivas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Open+to+MERN+%2F+Full-Stack+Internships!;Let's+Build+Something+Real+Together+%F0%9F%9A%80;Reach+out+—+I+respond+fast!" alt="CTA" />
-  </a>
-</p>
+> Engineering contributor to a live learning platform with 700+ active users, delivering subject-wise academic resources, PYQs, and mock test infrastructure.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7b2ff7,100:00c6ff&section=footer" />
-</p>
+- Built and organized structured academic content pipelines for streamlined exam preparation
+- Collaborated across frontend, backend, and cloud teams for the v1 platform launch
+- Maintained content taxonomy and resource indexing for discoverability at scale
+
+`Content Engineering` `Data Pipelines` `Cross-functional Collaboration` `v1 Launch`
+
+---
+
+## ◈ Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---|:---|
+| 🥇 1st Place — Indian Chess Academy Hackathon | Academy Management Platform, 2026 |
+| 🎓 Google Cloud Certified | Vertex AI · Multimodal RAG · AI Applications, 2025 |
+
+</div>
+
+---
+
+## ◈ Certifications
+
+<div align="center">
+
+**Google Cloud**
+
+![Vertex AI](https://img.shields.io/badge/Google%20Cloud-Vertex%20AI-6d28d9?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Multimodal RAG](https://img.shields.io/badge/Google%20Cloud-Multimodal%20RAG-4f46e5?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AI Applications](https://img.shields.io/badge/Google%20Cloud-AI%20Applications-7c3aed?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+## ◈ Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-@AneeshSrinivas45-6d28d9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AneeshSrinivas45)
+[![Codolio](https://img.shields.io/badge/Codolio-AneeshSri-4f46e5?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://codolio.com/profile/AneeshSri)
+[![GitHub](https://img.shields.io/badge/GitHub-aneeshsrinivas-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aneeshsrinivas)
+
+</div>
+
+---
+
+## ◈ GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aneeshsrinivas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=8B5CF6&icon_color=6d28d9&text_color=c4b5fd&ring_color=7c3aed"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsrinivas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=8B5CF6&text_color=c4b5fd"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aneeshsrinivas&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=8B5CF6&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=a78bfa&sideNums=a78bfa&dates=6d28d9"/>
+
+</div>
+
+---
+
+## ◈ GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=aneeshsrinivas&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ◈ Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshsrinivas&bg_color=0d0d1a&color=8B5CF6&line=6d28d9&point=a78bfa&area=true&area_color=4f46e5&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## ◈ Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aneeshsrinivas/aneeshsrinivas/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aneeshsrinivas/aneeshsrinivas/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/aneeshsrinivas/aneeshsrinivas/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## ◈ Current Focus
+
+```yaml
+focus:
+  learning:
+    - Advanced distributed systems design (Kafka, event sourcing, CQRS)
+    - DSA mastery — LeetCode Hard, competitive problem sets
+    - MERN stack depth — production-grade patterns and deployment
+    - System design interviews — HLD/LLD for engineering roles
+
+  building:
+    - Scalable microservices with Spring Boot and PostgreSQL
+    - Research-grade NLP pipelines for healthcare AI
+    - Full-stack applications with real-world impact at scale
+
+  exploring:
+    - On-device ML inference and edge AI deployment
+    - Federated Learning architectures for privacy-preserving IoT
+    - Vector databases and RAG system optimization
+
+  open_to:
+    - Backend / Full Stack SDE internships (2026 cycles)
+    - AI/ML research collaborations (healthcare, security)
+    - Hackathon partnerships — system design and backend ownership
+    - Open source contributions to developer tooling and infrastructure
+```
+
+---
+
+## ◈ Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-aneeshsrinivas2006@gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneeshsrinivas2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aneesh%20Srinivas-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-srinivas)
+[![GitHub](https://img.shields.io/badge/GitHub-aneeshsrinivas-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aneeshsrinivas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-codolio.com%2Fprofile%2FAneeshSri-5b21b6?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://codolio.com/profile/AneeshSri)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Systems are only as reliable as the engineering discipline behind them."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:6d28d9&height=120&section=footer&animation=fadeIn" />
+
+</div>
